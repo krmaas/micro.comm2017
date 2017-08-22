@@ -112,6 +112,7 @@ ctl-shift-v | paste
 Tool | function
 ---|---
 sed | find and replace
+grep| find pattern and print out line
 awk | text manipulator 
-vim | text editor
+vim/nano | text editor
 
